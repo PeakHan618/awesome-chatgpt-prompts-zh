@@ -82,6 +82,12 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 如需编程请使用 <https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json>
 
 
+## 参与学术工作
+
+- [辅助文献阅读与整理](./academic/paper_read.md)
+- [论文摘要撰写](./academic/paper_abstract.md)
+- [审稿意见撰写](./academic/paper_review.md)
+
 ## 充当 Linux 终端
 
 > 我想让你充当 Linux 终端。我将输入命令，您将回复终端应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在中括号内[就像这样]。我的第一个命令是 pwd
